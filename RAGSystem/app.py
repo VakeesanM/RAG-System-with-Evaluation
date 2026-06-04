@@ -32,7 +32,7 @@ if st.button("Submit Website URL"):
         documents = WebBaseLoader(url).load()
     with st.spinner("Splitting Documents", show_time=False):
         chunks = splitter.split_documents(documents)
-    with st.spinner("Uploading and Embedding Document int Vector Base", show_time=False):
+    with st.spinner("Uploading and Embedding Document into Vector Base", show_time=False):
         st.session_state.vectorstore.add_documents(chunks)
     st.write("Website has been uploaded into VectorBase")
 
