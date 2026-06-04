@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8501
 
-CMD ["streamlit" "run" "RAGSystem/app.py"]
+CMD ["streamlit", "run", "RAGSystem/app.py", "--server.address=0.0.0.0", "--server.port=8501"]
