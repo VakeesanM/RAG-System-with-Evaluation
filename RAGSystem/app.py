@@ -17,7 +17,9 @@ splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 if "vectorstore" not in st.session_state:
     st.session_state.vectorstore = FAISS.load_local( "faiss_index", embedder, allow_dangerous_deserialization=True)
     st.session_state.encoder = HuggingFaceCrossEncoder(model_name="cross-encoder/ms-marco-MiniLM-L-6-v2")
-    st.session_state.df = pd.read_csv(r"RAGSystem\evaluation_dataset\Cleaned_Eval_data.csv")
+    csv_path = os.path.join(os.path.dirname(__file__), "evaluation_dataset", "Cleaned_Eval_data.csv")
+    st.session_state.df = pd.read_csv(csv_path)
+
 
 st.set_page_config(page_title="Adaptive RAG App Demo", page_icon="🖥️", layout="wide")
 st.title("Adaptive RAG APP - Demo \n " 

@@ -7,7 +7,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 from langchain_classic.retrievers.document_compressors import CrossEncoderReranker
-
+from dotenv import load_dotenv
+load_dotenv()
 
 
 class ChoiceOutput(BaseModel):
