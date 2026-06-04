@@ -8,3 +8,4 @@ RAGSystem/setup.py
 RAGSystem/__pycache__
 RAGSystem/evaluation_dataset/Complete_Eval_dataset.csv
 RAGSystem/valuation_dataset/ragas_dataset.csv
+.github

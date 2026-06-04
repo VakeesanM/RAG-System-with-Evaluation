@@ -1,0 +1,1 @@
+![RAG System Graph](RAG_graph.png)
