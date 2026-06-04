@@ -1,0 +1,14 @@
+langgraph
+langchain-openai
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+pydantic
+faiss-cpu
+sentence-transformers
+streamlit
+pypdf
+beautifulsoup4
+python-dotenv
+pandas

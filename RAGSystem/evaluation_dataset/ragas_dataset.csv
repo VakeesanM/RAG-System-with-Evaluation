@@ -1,0 +1,50 @@
+id,query,ground_truth
+0,Who is the king of the Olympian gods?,Zeus is the king of the Olympian gods.
+1,What is Zeus's domain and symbol?,"Zeus rules the sky and thunder. His symbols are the thunderbolt, eagle, and oak."
+2,Who are the children of Kronos and Rhea?,"Hestia, Demeter, Hera, Hades, Poseidon, and Zeus."
+3,Why did Kronos swallow his children?,"He feared a prophecy that one of his children would overthrow him, just as he had overthrown his father Ouranos."
+4,What is the Titanomachy?,"The Titanomachy was a ten-year war between the Olympians led by Zeus and the Titans led by Kronos, ending with the Titans imprisoned in Tartaros."
+5,What did Prometheus steal and why was he punished?,Prometheus stole fire from the gods and gave it to humanity. Zeus punished him by chaining him to a rock where an eagle ate his liver daily.
+6,What is the domain of Poseidon?,"Poseidon rules the sea, earthquakes, and horses. His symbol is the trident."
+7,What caused the first winter according to Greek myth?,"Demeter's grief over Persephone's abduction by Hades caused her to withhold crops, creating the first winter."
+8,What is Pandora's jar and what came out of it?,"Pandora's jar contained all human evils. When she opened it, disease, sorrow, and suffering escaped into the world. Only hope remained inside."
+9,Who were Persephone's parents?,Persephone's parents were Demeter and Zeus.
+10,Why does Persephone spend part of the year in the underworld?,"She ate pomegranate seeds in the underworld, binding her to spend part of each year there as Hades's queen."
+11,What are the Twelve Labours of Heracles?,"Twelve tasks assigned by King Eurystheus, including slaying the Nemean Lion, killing the Lernaean Hydra, capturing the Erymanthian Boar, cleaning the Augean Stables, and retrieving Cerberus from the underworld."
+12,Who were the original twelve Titans?,"Kronos, Rhea, Okeanos, Tethys, Hyperion, Theia, Koios, Phoebe, Krios, Mnemosyne, Themis, and Iapetos."
+13,What is the domain of Athena?,"Athena is the goddess of wisdom, strategic warfare, and crafts. Her symbols are the owl, aegis, and olive tree."
+14,What caused the Trojan War?,"Paris of Troy awarded Aphrodite the golden apple for 'the fairest,' and she rewarded him with Helen, wife of Menelaos, whose abduction sparked the war."
+15,How did Troy fall?,"The Greeks hid warriors inside a giant wooden horse. The Trojans brought it inside the city walls, and the Greeks emerged at night to sack Troy."
+16,Who were the parents of Apollo and Artemis?,Zeus and Leto.
+17,What is Atlas's punishment?,Atlas was condemned to hold up the heavens on his shoulders for eternity after the Titanomachy.
+18,What is the domain of Hermes?,"Hermes is the messenger of the gods, patron of travel, trade, and thieves, and guide of souls to the underworld."
+19,Who was Deucalion and what did he survive?,Deucalion was the son of Prometheus. He survived the great flood Zeus sent to destroy humanity by building an ark on his father's advice.
+20,What is the Golden Fleece and who sought it?,The Golden Fleece was the magical hide of a divine winged ram. Jason and the Argonauts sailed to Kolchis to retrieve it.
+21,Who killed Achilles and how?,"Paris killed Achilles with an arrow guided by Apollo that struck his heel, his only vulnerable spot."
+22,When was the US Constitution written and ratified?,"It was written in 1787, ratified in 1788, and has been in operation since 1789."
+23,What are the first three words of the Constitution?,We The People.
+24,How many times has the Constitution been amended?,"27 times, most recently in 1992."
+25,What is the Bill of Rights?,The first ten amendments to the Constitution.
+26,What does the First Amendment protect?,"Freedom of religion, speech, press, peaceful assembly, and the right to petition the government."
+27,What does the Second Amendment state?,The right of the people to keep and bear arms shall not be infringed.
+28,What are the age requirements to be a US Representative?,"At least 25 years old, a US citizen for 7 years, and a resident of the state they represent."
+29,What are the age requirements to be a US Senator?,"At least 30 years old, a US citizen for 9 years, and a resident of the state they represent."
+30,How long is a Senator's term?,Six years.
+31,How long is a Representative's term?,Two years.
+32,What vote is required to override a presidential veto?,Two-thirds majority in both the House and the Senate.
+33,Which chamber has the sole power of impeachment?,The House of Representatives.
+34,Which chamber tries impeachments?,The Senate.
+35,What are the requirements to be President?,"Natural born citizen, at least 35 years old, and a US resident for at least 14 years."
+36,How long is a presidential term?,Four years.
+37,What does the 13th Amendment do?,"It abolishes slavery and involuntary servitude, except as punishment for a crime."
+38,What does the 14th Amendment establish?,"Birthright citizenship, equal protection under the law, and due process for all persons."
+39,What did the 19th Amendment establish?,Women's right to vote.
+40,What did the 22nd Amendment establish?,A two-term limit on the presidency.
+41,What does the 5th Amendment protect against?,"Double jeopardy, self-incrimination, and deprivation of life, liberty, or property without due process."
+42,What does the 4th Amendment protect?,Protection against unreasonable searches and seizures. Warrants require probable cause.
+43,What voting age does the 26th Amendment establish?,18 years old.
+44,What is the Supremacy Clause?,"Article VI states that the Constitution and federal laws are the supreme law of the land, binding all state judges."
+45,How can the Constitution be amended?,"Two-thirds of both houses of Congress propose an amendment, then three-fourths of states must ratify it."
+46,What does the 10th Amendment say?,Powers not delegated to the federal government are reserved to the states or the people.
+47,What does the 17th Amendment change?,It changed the election of US Senators from state legislatures to direct popular election.
+48,What did the 18th Amendment do and what reversed it?,The 18th Amendment prohibited alcohol. The 21st Amendment repealed it.
