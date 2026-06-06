@@ -6,6 +6,8 @@ Most simple RAG systems fail due to a lack of method diversity. This Adaptive RA
 This RAG Systems has been intalized with documents about Greek Mythology and The US Constitution. 
 Furthermore, this RAG System allows the user to upload any website url or pdf, which is then stored into vectorbase and can be retrieved from. However, these uploaded documents are not permanent and are only accessible during each user's session. 
 
+Link to Website: [Adaptive RAG System Space](https://huggingface.co/spaces/VakeesanM/Adaptive-RAG-System)
+
 ![RAG System Graph](RAG_graph.png)
 
 
