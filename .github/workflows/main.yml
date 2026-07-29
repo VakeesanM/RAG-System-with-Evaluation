@@ -26,7 +26,7 @@ jobs:
                 --name rag_app \
                 -e OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} \
                 ragsystem 
-                for i in {1..30}; do
+                for i in {1..50}; do
                   if curl -s http://localhost:8501/ > /dev/null 2>&1; then
                     echo "App is up!"
                     break
