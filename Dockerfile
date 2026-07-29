@@ -6,9 +6,10 @@ COPY requirements.txt .
 
 RUN python -m pip install -r requirements.txt
 
+COPY src/ /app/src/
 
-COPY . .
+WORKDIR /app/src
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "src/main.py", "--server.address=0.0.0.0", "--server.port=8501"]
+CMD ["streamlit", "run", "main.py", "--server.address=0.0.0.0", "--server.port=8501"]

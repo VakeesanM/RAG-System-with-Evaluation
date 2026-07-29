@@ -10,7 +10,7 @@ def initial_chunk():
     Constitution = WebBaseLoader("https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm").load()
     Constitution_docs = splitter.split_documents(Constitution)
     
-    Greek_Mythos = PyPDFLoader(r"src/RAG/setup/Greek_Mythology.pdf").load()
+    Greek_Mythos = PyPDFLoader(r"setup/Greek_Mythology.pdf").load()
     Greek_Mythos_docs = splitter.split_documents(Greek_Mythos)
     
     for doc in Constitution_docs:

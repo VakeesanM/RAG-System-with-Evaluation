@@ -13,7 +13,7 @@ from RAG.initilize_system import initilize_rag_graph
 class RAGSystem():
     def __init__(self):
         embedder = OpenAIEmbeddings(model='text-embedding-3-small')
-        self.vectorbase = FAISS.load_local("src/RAG/faiss_index", embedder, allow_dangerous_deserialization=True)
+        self.vectorbase = FAISS.load_local("RAG/faiss_index", embedder, allow_dangerous_deserialization=True)
         self.chunks = initial_chunk()
         
         self.update_retiever()
